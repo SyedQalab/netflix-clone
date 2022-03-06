@@ -1,7 +1,5 @@
 
-# Cart Fucntionality 
-
-Netflix Clone 
+## Netflix Clone 
 
 
 ## Demo
